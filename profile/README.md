@@ -1,12 +1,9 @@
-## Hi there 👋
+# Nebula AI
 
-<!--
+*Unlock the Value of Your Generative AI Prompts—Create, Share, Earn*
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Nebula AI** is an AI-powered social platform built for the **MoveMania Hackathon**. It enables users to generate, share, and monetize high-quality generative AI prompts, and their generated Image output on the Movement Chain.
+
+---
