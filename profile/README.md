@@ -46,7 +46,7 @@ When it comes to existing AI art platforms, there are quite a few issues:
 ---
 
 ## Getting Started
--  [Project URL]()
+-  [Project URL](https://nebula-theta-henna.vercel.app/)
 - [Demo Video](https://youtu.be/jwR6jU_EhJA)
 - [Presentation](https://gamma.app/docs/Nebula-AI-Unleashing-Creativity-in-the-Blockchain-Era-04pk1l3loy0uoxk)
 
